@@ -13,7 +13,8 @@
   "files": [
     "AlpineTrooper.js",
     "AlpineTrooper.d.ts",
-    "AlpineTrooper.js.map"
+    "AlpineTrooper.js.map",
+    "AlpineTrooper.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
